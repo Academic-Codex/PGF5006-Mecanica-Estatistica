@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://academic-codex.github.io/PGF5006-Mecanica-Estatistica">
-    <img src=".github/readme/hero.svg?v=2025-12-27T13:58:21.051244Z" width="100%" alt="Access the course website" />
+    <img src=".github/readme/hero.svg?v=2025-12-28T18:33:42.457167Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
